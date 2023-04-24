@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Gurur Yaman</h1>
-<h3 align="center">A student trying to learn frondend</h3>
+<h3 align="center">A student trying to learn frontend</h3>
 
 - 🌱 I’m currently learning **JavaScript && React**
 
